@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **AI Chatbot Application**
 
-- 🌱 I’m currently learning **I’m currently learning advanced AI/ML techniques, LLM fine-tuning, scalable backend development with FastAPI & Django, and optimizing cloud architectures on AWS.**
+- 🌱 **I’m currently learning advanced AI/ML techniques, LLM fine-tuning, scalable backend development with FastAPI & Django, and optimizing cloud architectures on AWS.**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on AI/ML projects, backend development with Django, FastAPI, Flask, scalable AWS solutions, automation frameworks, and cloud-based AI applications**
+- 👯 **I’m looking to collaborate on AI/ML projects, backend development with Django, FastAPI, Flask, scalable AWS solutions, automation frameworks, and cloud-based AI applications**
 
-- 🤝 I’m looking for help with **I’m looking for help with optimizing AI models, improving backend performance in Django/FastAPI/Flask, scaling cloud solutions on AWS, and contributing to open-source AI and automation projects**
+- 🤝 **I’m looking for help with optimizing AI models, improving backend performance in Django/FastAPI/Flask, scaling cloud solutions on AWS, and contributing to open-source AI and automation projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mubashar4603/](https://github.com/mubashar4603/)
 
-- 💬 Ask me about **Ask me about AI/ML, NLP, Chatbot Automation, Backend Development (Django, FastAPI, Flask), API Testing, Web Scraping, Selenium Automation, and Cloud Solutions on AWS**
+- 💬 **Ask me about AI/ML, NLP, Chatbot Automation, Backend Development (Django, FastAPI, Flask), API Testing, Web Scraping, Selenium Automation, and Cloud Solutions on AWS**
 
 - 📫 How to reach me **mubashar4604@gmail.com**
 
